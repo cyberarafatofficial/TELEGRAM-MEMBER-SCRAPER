@@ -38,12 +38,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/banner.png" width="80%" alt="Banner" />
-  <br />
-  <img src="screenshots/menu.png" width="80%" alt="Menu" />
-  <br />
-  <img src="screenshots/progress.png" width="80%" alt="Progress" />
-</p>
+  
 
 > 🖼️ *Add your screenshots in `screenshots/` folder*
 
