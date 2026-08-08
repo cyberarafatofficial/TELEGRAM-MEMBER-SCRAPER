@@ -46,15 +46,15 @@
 
 ## 🛠️ Installation
 
-### 🔹 Option 1: Local Machine (Windows/Linux/macOS)
+### 🔹 Option 1: Local Machine (Windows/Linux/macOS/Termux)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/eth-bd-telegram-scraper.git
-cd eth-bd-telegram-scraper
+git clone https://github.com/cyberarafatofficial/TELEGRAM-MEMBER-SCRAPER.git
+cd TELEGRAM-MEMBER-SCRAPER
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the tool
-python scraper.py
+python main.py
